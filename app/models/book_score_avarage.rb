@@ -1,0 +1,2 @@
+class BookScoreAvarage < ApplicationRecord
+end
